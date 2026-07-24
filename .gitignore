@@ -1,0 +1,21 @@
+# Node dependencies & build output
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Python virtual environment & cache
+.venv/
+backend/.venv/
+__pycache__/
+backend/app/__pycache__/
+backend/app/*/__pycache__/
+.pytest_cache/
+backend/.pytest_cache/
+*.pyc
+
+# Vercel & IDE
+.vercel/
+.env
+.env.local
+*.log
