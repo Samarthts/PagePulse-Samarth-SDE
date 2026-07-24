@@ -53,7 +53,7 @@ export const Navbar = React.memo(({ onReset }) => {
           </a>
 
           <a
-            href="https://github.com/Samarthts"
+            href="https://github.com/Samarthts/PagePulse-Samarth-SDE"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2.5 text-slate-300 hover:text-white bg-white/[0.05] hover:bg-white/[0.1] border border-white/10 rounded-xl transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500"
